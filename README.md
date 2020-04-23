@@ -1,5 +1,9 @@
 # Validation_-_Simple_Linear_Regression
 
+# Introduction:
+
+In this notebook I will predict employee salaries from different employee characteristics or features.I am going to use a simple supervised learning technique: linear regression.To build a simple model to determine how well Years Worked predicts an employee’s salary
+
 ## Contents :
 
 
